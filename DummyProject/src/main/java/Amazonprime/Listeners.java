@@ -1,4 +1,4 @@
-package dummy;
+package Amazonprime;
 
 import org.testng.ITestContext;
 import org.testng.ITestListener;

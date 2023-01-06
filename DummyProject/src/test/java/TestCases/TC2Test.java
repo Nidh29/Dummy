@@ -5,7 +5,7 @@ import org.testng.Reporter;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
-@Listeners(dummy.Listeners.class)
+@Listeners(Amazonprime.Listeners.class)
 public class TC2Test {
 
 	
